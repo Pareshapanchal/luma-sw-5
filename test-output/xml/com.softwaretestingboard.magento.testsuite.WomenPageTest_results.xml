@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.858">
+  <properties />
+  
+  
+            <testcase name="verifyTheSortByPriceFilter" time="5.082" classname="com.softwaretestingboard.magento.testsuite.WomenPageTest" />
+                <testcase name="verifyTheSortByProductNameFilter" time="4.776" classname="com.softwaretestingboard.magento.testsuite.WomenPageTest" />
+      
+</testsuite>
